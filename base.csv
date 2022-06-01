@@ -1,0 +1,10 @@
+nodeId;parentId;isFolder;Name;Id;Password;Comment
+0;null;true;Root;;;
+1;0;true;11;;;
+3;1;true;111-222;;;
+;3;false;h111;57;;
+;3;false;раз·2222;;;
+2;0;true;22;;;
+;2;false;йй;фф;ыы;чч
+7;0;true;Странно;;;
+;7;false;12;;;
